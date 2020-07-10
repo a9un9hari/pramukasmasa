@@ -1,0 +1,67 @@
+html{
+    font-size:1em
+}
+body{
+    background-color:white;
+    font-family:Glegoo, serif;
+    font-weight:400;
+    line-height:1.8;
+    color:#333
+}
+p{
+    margin-bottom:1.3em
+}
+h1,h2,h3,h4{
+    margin:1.414em 0 0.5em;
+    font-weight:inherit;
+    line-height:1.2
+}
+h1{
+    margin-top:0;
+    font-size:6.854em
+}
+h2{
+    font-size:4.236em
+}
+h3{
+    font-size:2.618em
+}
+h4{
+    font-size:1.618em
+}
+small,.font_small{
+    font-size:0.618em
+}
+a{
+    color:white
+}
+a:hover{
+    color:#544d55
+}
+#wrapper{
+    background:url("images/pramukasmasa.jpg") no-repeat fixed center bottom/cover transparent
+}
+header{
+    width:100%;
+    overflow:hidden;
+    position:relative;
+    display:inline-block;
+    vertical-align:middle;
+    background-color:rgba(0,0,0,0.6)
+}
+header:before{
+    width:0;
+    content:'';
+    height:50%;
+    margin-top:-140px;
+    display:inline-block;
+    vertical-align:middle
+}
+header h1{
+    margin:0 auto;
+    display:block;
+    color: #FFF;
+    font-family: 'Pacifico', cursive;
+    /* text-indent:-9999px */
+}
+ 
