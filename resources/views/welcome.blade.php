@@ -145,21 +145,18 @@
 			<!-- about -->
 			<div class="container pad-tb40" id="about">
 				<div class="col-md-push-1 col-md-10 mar-bot50" align="center">
-					<h1 class="title blue text-xlarge">"Berkreasi dalam Kompetisi Menjadi Penggalang Berkarakter"</h1>
+					<h1 class="title blue text-xlarge">"Tetap dekat dengan pramuka ditengah <br><i>new normal</i>"</h1>
 					<p>
-						Gerakan Pramuka bertujuan membentuk manusia yang berkepribadian dan berwatak luhur, sehat jasmani serta rohaninya, sehingga menjadi warga Negara Republik Indonesia yang berjiwa Pancasila, setia, dan patuh. Pramuka diharapkan menjadi anggota masyarakat yang baik, berguna, dan dapat membangun dirinya, masyarakat, bangsa, serta negara.
+						Pramuka SMA Negeri 1 Blitar atau yang biasa dikenal dengan nama Abhinaya Byiakta Atmajaya (ABA) tetap produktif di tengah new normal dengan mengadakan kegiatan Penerimaan Tamu Ambalan 2020 atau PTA 2020 secara daring. Maksud dari kegiatan PTA ini sendiri yaitu untuk menyambut dan mengenalkan ABA kepada peserta didik baru SMA Negeri 1 Blitar tahun ajaran 2020/2021. 
 					</p>
 					<p>
-						Dalam upaya ikut meningkatkan dan melestarikan pendidikan kepramukaan, maka perlu adanya peningkatan kualitas maupun kuantitas generasi muda melalui pertemuan sebagai sarana pendidikan.
+						PTA sendiri sudah menjadi acara tahunan yang biasanya dilaksanakan di sekolah dengan berbagai kegiatan yang menarik dan seru. Untuk kali ini dilakukan secara daring tentunya ada yang berbeda dari kegiatan kepramukaan lainnya, kegiatannya akan dikemas dengan mudah jadi jangan takut kalau sulit dan membosankan ya!
 					</p>
-					<p>
-						Upaya Gerakan Pramuka SMA Negeri 1 Blitar dalam hal ini adalah melaksanakan lomba bagi generasi muda yang dikemas dalam bentuk perlombaan dengan nama kegiatan “Abhinaya Scout Competition 2018”.
-					</p>
-          <div class="col-md-8 col-md-push-2">
+          <!-- <div class="col-md-8 col-md-push-2">
             <form id="form_id" action="https://drive.google.com/file/d/1kEQEwarvC1ZtofoSski2QBe-s0bwlMYR/view?usp=drivesdk" method="get" target="_blank">
               <button type="submit" class="btn-sponsor text-small" >Unduh Petunjuk Teknis Hasil TM</button>
             </form>
-          </div>
+          </div> -->
 				</div>
 				<!-- <br/>
 				<div class="col-md-12">
@@ -528,49 +525,140 @@
 						<div class="tab-pane active" id="2013">
 							<section class="Collage effect-parent">
 								<div class="Image_Wrapper">
-									<a class="fancybox" rel="gallery2013" href="https://c6.staticflickr.com/1/524/20185856389_0ee5834c55_o.jpg">
-										<img src="https://c6.staticflickr.com/1/524/20185856389_0ee5834c55_o.jpg">
+									<a class="fancybox" rel="gallery2013" href="images/aba-1.jpg">
+										<img src="images/aba-1.jpg">
 									</a>
 								</div>
 								<div class="Image_Wrapper">
-									<a class="fancybox" rel="gallery2013" href="https://c4.staticflickr.com/1/560/20378625691_d3147d2821_o.jpg">
-										<img src="https://c4.staticflickr.com/1/560/20378625691_d3147d2821_o.jpg">
+									<a class="fancybox" rel="gallery2013" href="images/aba-2.jpg">
+										<img src="images/aba-2.jpg">
 									</a>
 								</div>
 								<div class="Image_Wrapper">
-									<a class="fancybox" rel="gallery2013" href="https://c3.staticflickr.com/1/474/20184441650_214c42c668_o.jpg">
-										<img src="https://c3.staticflickr.com/1/474/20184441650_214c42c668_o.jpg">
+									<a class="fancybox" rel="gallery2013" href="images/aba-3.jpg">
+										<img src="images/aba-3.jpg">
 									</a>
 								</div>
 								<div class="Image_Wrapper">
-									<a class="fancybox" rel="gallery2013" href="https://c4.staticflickr.com/1/462/19751581163_2b6d97838b_o.jpg">
-										<img src="https://c4.staticflickr.com/1/462/19751581163_2b6d97838b_o.jpg"></a>
+									<a class="fancybox" rel="gallery2013" href="images/aba-4.jpg">
+										<img src="images/aba-4.jpg">
+									</a>
 								</div>
 								<div class="Image_Wrapper">
-									<a class="fancybox" rel="gallery2013" href="https://c7.staticflickr.com/1/340/20364005862_7d40b6b566_o.jpg">
-										<img src="https://c7.staticflickr.com/1/340/20364005862_7d40b6b566_o.jpg"></a>
+									<a class="fancybox" rel="gallery2013" href="images/aba-5.jpg">
+										<img src="images/aba-5.jpg">
+									</a>
 								</div>
 								<div class="Image_Wrapper">
-									<a class="fancybox" rel="gallery2013" href="https://c1.staticflickr.com/1/440/20184465240_cffde104dc_o.jpg">
-										<img src="https://c1.staticflickr.com/1/440/20184465240_cffde104dc_o.jpg"></a>
+									<a class="fancybox" rel="gallery2013" href="images/aba-6.jpg">
+										<img src="images/aba-6.jpg">
+									</a>
 								</div>
 								<div class="Image_Wrapper">
-									<a class="fancybox" rel="gallery2013" href="https://c5.staticflickr.com/1/439/20184548188_87861249de_o.jpg">
-										<img src="https://c5.staticflickr.com/1/439/20184548188_87861249de_o.jpg"></a>
+									<a class="fancybox" rel="gallery2013" href="images/aba-7.jpg">
+										<img src="images/aba-7.jpg">
+									</a>
 								</div>
 								<div class="Image_Wrapper">
-									<a class="fancybox" rel="gallery2013" href="https://c7.staticflickr.com/1/523/20364015622_34190fa172_o.jpg">
-										<img src="https://c7.staticflickr.com/1/523/20364015622_34190fa172_o.jpg"></a>
+									<a class="fancybox" rel="gallery2013" href="images/aba-8.jpg">
+										<img src="images/aba-8.jpg">
+									</a>
 								</div>
 								<div class="Image_Wrapper">
-									<a class="fancybox" rel="gallery2013" href="https://c4.staticflickr.com/1/420/20372540155_03f058ab07_o.jpg">
-										<img src="https://c4.staticflickr.com/1/420/20372540155_03f058ab07_o.jpg"></a>
+									<a class="fancybox" rel="gallery2013" href="images/aba-9.jpg">
+										<img src="images/aba-9.jpg">
+									</a>
 								</div>
 								<div class="Image_Wrapper">
-									<a class="fancybox" rel="gallery2013" href="https://c4.staticflickr.com/1/360/20372565075_8033fba165_o.jpg">
-										<img src="https://c4.staticflickr.com/1/360/20372565075_8033fba165_o.jpg"></a>
+									<a class="fancybox" rel="gallery2013" href="images/aba-10.jpg">
+										<img src="images/aba-10.jpg">
+									</a>
 								</div>
-
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-11.jpg">
+										<img src="images/aba-11.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-12.jpg">
+										<img src="images/aba-12.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-13.jpg">
+										<img src="images/aba-13.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-14.jpg">
+										<img src="images/aba-14.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-15.jpg">
+										<img src="images/aba-15.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-16.jpg">
+										<img src="images/aba-16.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-17.jpg">
+										<img src="images/aba-17.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-18.jpg">
+										<img src="images/aba-18.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-19.jpg">
+										<img src="images/aba-19.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-20.jpg">
+										<img src="images/aba-20.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-21.jpg">
+										<img src="images/aba-21.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-22.jpg">
+										<img src="images/aba-22.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-23.jpg">
+										<img src="images/aba-23.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-24.jpg">
+										<img src="images/aba-24.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-25.jpg">
+										<img src="images/aba-25.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-26.jpg">
+										<img src="images/aba-26.jpg">
+									</a>
+								</div>
+								<div class="Image_Wrapper">
+									<a class="fancybox" rel="gallery2013" href="images/aba-27.jpg">
+										<img src="images/aba-27.jpg">
+									</a>
+								</div>
 							</section>
 						</div>
 					</div>
