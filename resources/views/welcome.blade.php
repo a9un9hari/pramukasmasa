@@ -3,10 +3,23 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="Abhinaya Scout Competition 2018">
+		<meta name="description" content="Abhinaya Byakta Atmajaya Gugus Depan Kota Blitar 03087-03088 Ambalan Ahmad Yani - Dewi Sartika Pangkalan SMA Negeri 1 Kota Blitar ">
 		<meta name="author" content="Pramuka Smasa">
+		<meta name="robots" content="index, follow" />
+		<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+		<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+		<link rel="canonical" href="https://pramukasmasa.com/" />
+		<meta property="og:locale" content="id_ID" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Abhinaya Byakta Atmajaya - Pangkalan SMA Negeri 1 Kota Blitar" />
+		<meta property="og:description" content="Abhinaya Byakta Atmajaya Gugus Depan Kota Blitar 03087-03088 Ambalan Ahmad Yani - Dewi Sartika Pangkalan SMA Negeri 1 Kota Blitar " />
+		<meta property="og:url" content="https://pramukasmasa.com/" />
+		<meta property="og:site_name" content="Abhinaya Byakta Atmajaya" />
+		<meta property="og:image" content="https://pramukasmasa.com/assets/img/asc.jpg" />
+		<meta property="og:image:width" content="150" />
+		<meta property="og:image:height" content="195" />
 
-		<title>Abhinaya Scout Competition 2018</title>
+		<title>Abhinaya Byakta Atmajaya - Pangkalan SMA Negeri 1 Kota Blitar</title>
 
 		<link rel="apple-touch-icon" sizes="57x57" href="assets/fav/apple-icon-57x57.png">
 		<link rel="apple-touch-icon" sizes="60x60" href="assets/fav/apple-icon-60x60.png">
