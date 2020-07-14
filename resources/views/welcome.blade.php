@@ -110,7 +110,7 @@
 					<div id="livescore">
 						<div class="col-md-9 col-sm-8 col-xs-12 left-box">
 							<div class='embed-container'>
-								<iframe src='https://www.youtube.com/watch?v=2PM_cRGKq8I' frameborder='0' allowfullscreen></iframe>
+								<iframe src="https://www.youtube.com/embed/2PM_cRGKq8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							</div>
 						</div>
 					</div>
